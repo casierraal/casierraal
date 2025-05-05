@@ -1,51 +1,41 @@
-## 👋
 # 👋 ¡Hola! Soy Carlos Sierra  
 
-📊 **Ingeniero de Sistemas, especialista en Data Science.**  
+📊 **Ingeniero de Sistemas con una visión integral del mundo tecnológico, especializado en Ciencia de Datos y Ciberseguridad.**  
+
+Actualmente curso un **Máster en Seguridad Informática**, fortaleciendo mis habilidades en ciberdefensa, normativas ISO (como la ISO 27001), y herramientas avanzadas de monitoreo y análisis de redes.
 
 ---
 
-## 👨‍💻 Experiencia en proyectos de Henry:  
-- 🔄 **Limpieza y transformación de datos (ETL):**  
-  Uso de Python y librerías como Pandas y NumPy.  
-- 📊 **Análisis Exploratorio de Datos (EDA):**  
-  Creación de visualizaciones impactantes con Matplotlib y Seaborn.  
-- 🗄️ **Bases de datos:**  
-  Consultas eficientes y manejo de MySQL, PostgreSQL y MongoDB.  
-- 📈 **Visualización de datos:**  
-  Creación de dashboards dinámicos en Power BI y Tableau.  
-- ⚙️ **MLOps:**  
-  Diseño y estructuración de proyectos con Docker, Hadoop y Spark.  
-- 🛠️ **Metodologías ágiles:**  
-  Aplicación de SCRUM y flujos de trabajo para proyectos analíticos.  
+## ⚙️ Data Science  
+💡 Experiencia práctica en desarrollo de soluciones basadas en datos:  
+- 🔄 **ETL con Python:** Manejo de datos con Pandas y NumPy, automatización con Airflow y Docker.  
+- 📊 **Análisis Exploratorio de Datos (EDA):** Visualizaciones interactivas con Power BI, Tableau, Matplotlib y Seaborn.  
+- 🗃️ **Modelado de datos:** Uso de MySQL, PostgreSQL y MongoDB.  
+- ☁️ **Cloud & Apps:** Despliegue en Google Cloud y desarrollo de dashboards interactivos con Streamlit.  
 
 ---
 
-✨️ Me destaco por mi **pensamiento crítico, curiosidad insaciable y dedicación** para resolver problemas complejos. Mi capacidad para **aprender rápidamente** y adaptarme a nuevas tecnologías me permite enfrentar retos con éxito.  
-
-🔎 **Buscando nuevas oportunidades:** Contribuir y seguir creciendo en el análisis de datos y desarrollo de soluciones tecnológicas innovadoras.  
+## 🔐 Ciberseguridad  
+🛡️ En formación como profesional en Seguridad Informática, con experiencia en:  
+- 💻 **Sistemas y redes:** Administración en Windows y Linux, políticas de seguridad en Active Directory.  
+- 🌐 **Análisis de tráfico:** Uso de Wireshark, Fortinet, Nmap y Nessus.  
+- 🚨 **Gestión de incidentes y SIEM:** Automatización con Python y uso de Splunk.  
+- 🔒 **Redes seguras:** Configuración de VPN, MPLS y fundamentos de Ethical Hacking.  
 
 ---
 
-📧 **¡Contáctame!**  
-📍 **Madrid, España**  
-📧 [alfredosierraalarcon@gmail.com](mailto:alfredosierraalarcon@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/carlos-sierra-alarcon)  
-📱 +(34) 613 436 460 / +(57) 301 507 3888  
+## 💬 Sobre mí  
+✨ Me impulsa la **curiosidad**, el **pensamiento crítico** y el deseo constante de **evolucionar como profesional**. Me encanta trabajar en equipo, adaptarme a nuevos retos y generar soluciones tecnológicas seguras y eficientes, siempre alineadas con los objetivos del negocio.
 
-🫶 ¡Gracias por leerme! Saludos.
+🚀 **Busco oportunidades** para seguir creciendo en proyectos de análisis de datos, automatización y ciberseguridad, donde pueda aportar valor desde una mirada estratégica y técnica.
 
-<!--
-**casierraal/casierraal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 ¿Conectamos?
+📧 alfredosierraalarcon@gmail.com  
+🌍 [GitHub](https://github.com/casierraal)  
+🔗 [LinkedIn](https://www.linkedin.com/in/caalsial)  
+📱 +(34) 613 436 460 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🫶 ¡Gracias por leerme!  
+
